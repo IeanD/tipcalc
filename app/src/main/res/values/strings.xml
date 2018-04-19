@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tipCalc</string>
+    <string name="txt_tip_input_hint">Amount</string>
+    <string name="btn_submit_tip">Tip</string>
+    <string name="radioBtn_tip_amt1">10%</string>
+    <string name="radioBtn_tip_amt2">15%</string>
+    <string name="radioBtn_tip_amt3">18%</string>
+    <string name="radioBtn_tip_amt4">20%</string>
+</resources>
